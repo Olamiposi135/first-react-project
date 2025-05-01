@@ -34,19 +34,21 @@ const Navbar = () => {
           OLAMIPO.
         </h1>
         <ul className="  uppercase p-4">
-          <li className="cursor-pointer p-4 border-b border-b-gray-700">
+          <li className="cursor-pointer p-4 border-b border-b-gray-700 hover:font-bold  ease-in-out duration-300">
             Home
           </li>
-          <li className="cursor-pointer p-4 border-b border-b-gray-700">
+          <li className="cursor-pointer p-4 border-b border-b-gray-700 hover:font-bold  ease-in-out duration-300">
             Company
           </li>
-          <li className="cursor-pointer p-4 border-b border-b-gray-700">
+          <li className="cursor-pointer p-4 border-b border-b-gray-700 hover:font-bold  ease-in-out duration-300">
             Resources
           </li>
-          <li className="cursor-pointer p-4 border-b border-b-gray-700">
+          <li className="cursor-pointer p-4 border-b border-b-gray-700 hover:font-bold  ease-in-out duration-300">
             About
           </li>
-          <li className="cursor-pointer p-4">Contact</li>
+          <li className="cursor-pointer p-4 hover:font-bold  ease-in-out duration-300">
+            Contact
+          </li>
         </ul>
       </div>
     </div>
