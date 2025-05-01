@@ -22,8 +22,10 @@ const Newsletter = () => {
             </button>
           </div>
           <p>
-            We care about the protection of your data. Read our{" "}
-            <span className="text-emerald-300">Privacy Policy</span>
+            We care about the protection of your data. Read our
+            <span className="text-emerald-300 ml-1 cursor-pointer hover:underline">
+              Privacy Policy
+            </span>
           </p>
         </div>
       </div>
